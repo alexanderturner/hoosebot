@@ -1,0 +1,5 @@
+{
+  "name": "Hoosebot",
+  "image": "heroku/nodejs"
+  "repository": "https://github.com/alexanderturner/hoosebot.git"
+}
